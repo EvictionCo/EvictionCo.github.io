@@ -1470,12 +1470,12 @@ input, select, textarea {
 		}
 
 	.button-large {
-		background-image: -moz-linear-gradient(top, #ed391b, #ce1a00);
-		background-image: -webkit-linear-gradient(top, #ed391b, #ce1a00);
-		background-image: -ms-linear-gradient(top, #ed391b, #ce1a00);
-		background-image: linear-gradient(top, #ed391b, #ce1a00);
+		background-image: -moz-linear-gradient(top, #7289DA, #5e77D4);
+		background-image: -webkit-linear-gradient(top, #7289DA, #5e77D4);
+		background-image: -ms-linear-gradient(top, #7289DA, #5e77D4);
+		background-image: linear-gradient(top, #7289DA, #5e77D4);
 		display: inline-block;
-		background-color: #ed391b;
+		background-color: #7289DA;
 		color: #fff;
 		text-decoration: none;
 		font-size: 1.75em;
@@ -1485,26 +1485,26 @@ input, select, textarea {
 		padding: 0 45px;
 		outline: 0;
 		border-radius: 10px;
-		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.75), inset 0px 2px 0px 0px rgba(255, 192, 192, 0.5), inset 0px 0px 0px 2px rgba(255, 96, 96, 0.85), 3px 3px 3px 1px rgba(0, 0, 0, 0.15);
+		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.75), 3px 3px 3px 1px rgba(0, 0, 0, 0.15);
 		text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.5);
 	}
 
 		.button-large:hover {
-			background-image: -moz-linear-gradient(top, #fd492b, #de2a10);
-			background-image: -webkit-linear-gradient(top, #fd492b, #de2a10);
-			background-image: -ms-linear-gradient(top, #fd492b, #de2a10);
-			background-image: linear-gradient(top, #fd492b, #de2a10);
+			background-image: -moz-linear-gradient(top, #5E77D4, #3656C9);
+			background-image: -webkit-linear-gradient(top, #5E77D4, #3656C9);
+			background-image: -ms-linear-gradient(top, #5E77D4, #3656C9);
+			background-image: linear-gradient(top, #5E77D4, #3656C9);
 			background-color: #fd492b;
-			box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.75), inset 0px 2px 0px 0px rgba(255, 192, 192, 0.5), inset 0px 0px 0px 2px rgba(255, 96, 96, 0.85), 3px 3px 3px 1px rgba(0, 0, 0, 0.15);
+			box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.75), 3px 3px 3px 1px rgba(0, 0, 0, 0.15);
 		}
 
 		.button-large:active {
-			background-image: -moz-linear-gradient(top, #ce1a00, #ed391b);
-			background-image: -webkit-linear-gradient(top, #ce1a00, #ed391b);
-			background-image: -ms-linear-gradient(top, #ce1a00, #ed391b);
-			background-image: linear-gradient(top, #ce1a00, #ed391b);
+			background-image: -moz-linear-gradient(top, #8699DF, #7288DA);
+			background-image: -webkit-linear-gradient(top, #8699DF, #7288DA);
+			background-image: -ms-linear-gradient(top, #8699DF, #7288DA);
+			background-image: linear-gradient(top, #8699DF, #7288DA);
 			background-color: #ce1a00;
-			box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.75), inset 0px 2px 0px 0px rgba(255, 192, 192, 0.5), inset 0px 0px 0px 2px rgba(255, 96, 96, 0.85), 3px 3px 3px 1px rgba(0, 0, 0, 0.15);
+			box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.75), 3px 3px 3px 1px rgba(0, 0, 0, 0.15);
 		}
 
 /* Header */
