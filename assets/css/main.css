@@ -116,6 +116,11 @@ input, select, textarea {
 		margin-bottom: 0 !important;
 	}
 
+#logo a {
+	text-decoration:none;
+	color:#FFF;
+}
+
 /* Container */
 
 	.container {

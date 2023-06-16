@@ -22,13 +22,13 @@
 		// Title Bar.
 			$(
 				'<div id="titleBar">' +
-					'<a href="#navPanel" class="toggle"></a>' +
-					'<span class="title">' + $('#logo').html() + '</span>' +
+					'<span class="title">' + '<h1>Eviction Co.</h1>' + '</span>' +
 				'</div>'
 			)
 				.appendTo($body);
 
 		// Panel.
+		
 			$(
 				'<div id="navPanel">' +
 					'<nav>' +
@@ -47,5 +47,6 @@
 					target: $body,
 					visibleClass: 'navPanel-visible'
 				});
+				
 
 })(jQuery);
